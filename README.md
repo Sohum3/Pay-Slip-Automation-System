@@ -133,7 +133,7 @@ Screen 100 is used for inputting parameters like the employee CPF number (`pcpf`
 2. Enter the program name `ZCALP` and screen number `0100`. Click on "Create".
 3. Define the screen attributes and layout:
    - Add input fields for `pcpf` and `pmon`.
-   - Add text labels and a "Submit" pushbutton.
+   - Add text labels and a "Submit" pushbutton
 4. Define Flow Logic for PBO and PAI.
 
 ### Output Screen 200
